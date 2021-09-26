@@ -18,16 +18,14 @@ Experience Language and framework:
   * [Codeigniter](https://codeigniter.com/)
   * [Drupal](https://drupal.com/)
   * [Wordpress](https://wordpress.com/)
-* .NET
-  * VB.net
-  * C#
-  * ASP.NET
-* Python
-* Mobile Programming
-  * Swift
-  * React Native
-  * Flutter
-  * Kotlin 
+* DevOps
+  * [Docker](https://www.docker.com/)
+  * [Nginx](https://nginx.org/en/)
+  * [Apache](http://www.apache.org/)
+  * [Kubernetes](https://kubernetes.io/)
+  * [Kong](https://konghq.com/kong/) 
+  * [Traefik](https://traefik.io/)
+  * [Routeros](https://mikrotik.com/)
 * DBMS
   * SQL Server
   * MySQL
@@ -38,6 +36,19 @@ Experience Language and framework:
   * MongoDb
   * RabbitMQ
   * Sqlite
+* Css Framework & Library
+  * bootstrap
+  * tailwindcss
+* .NET
+  * VB.net
+  * C#
+  * ASP.NET
+* Python
+* Mobile Programming
+  * Swift
+  * React Native
+  * Flutter
+  * Kotlin 
 * Golang
   * Gin
 * Javascript
@@ -47,17 +58,8 @@ Experience Language and framework:
   * Vuejs
   * Nodejs
   * expressjs
-* DevOps
-  * [Docker](https://www.docker.com/)
-  * [Nginx](https://nginx.org/en/)
-  * [Apache](http://www.apache.org/)
-  * [Kubernetes](https://kubernetes.io/)
-  * [Kong](https://konghq.com/kong/) 
-  * [Traefik](https://traefik.io/)
-  * [Routeros](https://mikrotik.com/)
-* Css Framework & Library
-  * bootstrap
-  * tailwindcss
+
+
 * Etc.   
  
 <!-- - 🔭 I’m currently working to rebuild my undergraduate-thesis about hoax verification for bahasa indonesia, it was named besut (benang kusut). -->
