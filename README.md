@@ -63,7 +63,7 @@ Experience Language and framework:
 * Etc.   
  
 <!-- - 🔭 I’m currently working to rebuild my undergraduate-thesis about hoax verification for bahasa indonesia, it was named besut (benang kusut). -->
-- 🌱 I’m currently learning other go framework and Nextjs
+- 🌱 I’m currently learning kubernetes and Nextjs
 - 👯 I’m looking to collaborate on open source projects<!-- - 🤔 I’m looking for help with how to get a Software Engineering job in Japan (my dream). -->
 - 📫 How to reach me: 
  [Curious Luminosity (Programming Community)](https://discord.gg/BjeQGq8)\ 
