@@ -49,6 +49,11 @@ Experience Language and framework:
   * C#
   * ASP.NET
 * Python
+  * Django
+  * Flash
+* Java
+  * Springboot
+  * Maven
 * Mobile Programming
   * Swift
   * React Native
