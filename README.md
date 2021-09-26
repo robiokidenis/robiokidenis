@@ -1,7 +1,7 @@
 ### Greetings Comrade 🖖
 
 My name is Robioki Denis
-Iam a;
+I am a;
 - Software Enginer
 - Fullstack Developer
 - DevOps Engineer
