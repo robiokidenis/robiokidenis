@@ -26,6 +26,11 @@ Experience Language and framework:
   * [Kong](https://konghq.com/kong/) 
   * [Traefik](https://traefik.io/)
   * [Routeros](https://mikrotik.com/)
+* Cloud Platform
+  * GCP
+  * AWS
+  * AZURE
+  * DIGITAL OCEAN
 * DBMS
   * SQL Server
   * MySQL
