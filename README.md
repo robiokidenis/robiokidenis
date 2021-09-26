@@ -7,7 +7,10 @@ I am a:
 - DevOps Engineer
 
 I am a DevOps Engineer currently working remotly at [WeFarm](https://remote.works-hub.com/companies/wefarm) in US, USA.\
-I love Space 🌌, Philosophy 🧐, Sci-Fi 🛸, and Fantasy 🐉. The best time to think is right before sleeping, you can actually adventure the mind with A LOT of questions, to find the best answer from our own thoughts.
+I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. The best time to think is right before sleeping, you can actually adventure the mind with A LOT of questions, to find the best answer from our own thoughts. 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight)
+![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight)
 
 Experience Language and framework:
 * Php
@@ -67,8 +70,6 @@ Experience Language and framework:
 [My Linkedin](https://www.linkedin.com/in/robiokidenis/)\
 [My Leetcode](https://leetcode.com/iDevoid/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight)
-![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight)
 
 <!--
 **robiokidenis/robiokidenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
