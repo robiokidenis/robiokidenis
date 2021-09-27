@@ -27,23 +27,28 @@ Experience Language and framework:
   * [Traefik](https://traefik.io/)
   * [Routeros](https://mikrotik.com/)
 * Cloud Platform
-  * GCP
-  * AWS
-  * AZURE
-  * DIGITAL OCEAN
-* DBMS
-  * SQL Server
-  * MySQL
-  * MariaDB
-  * PosgreSQL
-  * Redis
-  * ElasticSearch
-  * MongoDb
-  * RabbitMQ
-  * Sqlite
+  * [GCP](https://cloud.google.com/)
+  * [AWS](https://aws.amazon.com?)
+  * [AZURE](https://azure.microsoft.com/en-us/)
+  * [DIGITAL OCEAN](https://www.digitalocean.com/)
+* DBMS & Message Broker
+  * [SQL Server](https://id.wikipedia.org/wiki/Microsoft_SQL_Server)
+  * [MySQL](https://www.mysql.com/)
+  * [MariaDB](https://mariadb.org/)
+  * [MongoDb](https://www.mongodb.com/)
+  * [PostgreSQL](https://www.postgresql.org/)
+  * [Redis](https://redis.io/)
+  * [ElasticSearch](https://www.elastic.co)
+  * [RabbitMQ](https://www.rabbitmq.com/)
+  * [Sqlite](https://www.sqlite.org/index.html)
 * Css Framework & Library
-  * bootstrap
-  * tailwindcss
+  * [Bootstrap](https://getbootstrap.com/)
+  * [Tailwindcss](https://tailwindcss.com/)
+* Mobile Programming
+  * Swift
+  * React Native
+  * Flutter
+  * Kotlin 
 * .NET
   * VB.net
   * C#
@@ -54,11 +59,6 @@ Experience Language and framework:
 * Java
   * Springboot
   * Maven
-* Mobile Programming
-  * Swift
-  * React Native
-  * Flutter
-  * Kotlin 
 * Golang
   * Gin
 * Javascript
@@ -68,8 +68,6 @@ Experience Language and framework:
   * Vuejs
   * Nodejs
   * expressjs
-
-
 * Etc.   
  
 <!-- - 🔭 I’m currently working to rebuild my undergraduate-thesis about hoax verification for bahasa indonesia, it was named besut (benang kusut). -->
