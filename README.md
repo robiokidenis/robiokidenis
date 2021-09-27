@@ -50,7 +50,7 @@ Experience Language and framework:
   * ASP.NET
 * Python
   * Django
-  * Flash
+  * Flask
 * Java
   * Springboot
   * Maven
