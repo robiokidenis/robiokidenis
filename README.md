@@ -74,11 +74,11 @@ Experience Language and framework:
 - 🌱 I’m currently learning kubernetes and Nextjs
 - 👯 I’m looking to collaborate on open source projects<!-- - 🤔 I’m looking for help with how to get a Software Engineering job in Japan (my dream). -->
 - 📫 How to reach me: 
- [Curious Luminosity (Programming Community)](https://discord.gg/BjeQGq8)\ 
+ [Curious Luminosity (Programming Community)](https://discord.gg/BjeQGq8)
 
 [My Medium](https://medium.com/@robiokidenis)\
 [My Linkedin](https://www.linkedin.com/in/robiokidenis/)\
-[My Leetcode](https://leetcode.com/iDevoid/)
+[My Leetcode](https://leetcode.com/robiokidenis/)
 
 
 <!--
