@@ -12,6 +12,18 @@ I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. Th
 ![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight)
 
+[![Linkedin: robiokidenis](https://img.shields.io/badge/-robiokidenis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robiokidenis/)](https://www.linkedin.com/in/robiokidenis/)
+![youtube : robiokidenis](https://img.shields.io/youtube/channel/views/UCcKwmyI7YvLEUVVJCWX6drw?label=robioki%20Denis&style=social)
+[![GitHub robiokidenis](https://img.shields.io/github/followers/robiokidenis?label=follow&style=social)](https://github.com/robiokidenis)
+[![website](https://img.shields.io/badge/robiokidenis-2648ff?style=flat-square&logo=google-chrome)](https://robiokidenis.medium.com/)
+<!-- 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+ -->
 Experience Language and framework:
 * Php
   * [Laravel](https://laravel.com/)
