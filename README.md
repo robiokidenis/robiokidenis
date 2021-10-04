@@ -24,7 +24,7 @@ I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. Th
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
  -->
- <h3 align="left">Connect with me:</h3>
+<!--  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/robiokidenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 <a href="https://dev.to/robiokidenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandrikadeb7/github-profile-readme-generator/chandrikadeb7-devlogo/src/images/icons/Social/devto.svg" alt="robiokidenis" height="30" width="40" /></a>
@@ -32,7 +32,7 @@ I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. Th
 <a href="https://linkedin.com/in/chandrika-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robiokidenis" height="30" width="40" /></a>
 <a href="https://instagram.com/robiokidenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robiokidenis" height="30" width="40" /></a>
 <a href="https://medium.com/@robiokidenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@robiokidenis" height="30" width="40" /></a>
-</p>
+</p> -->
 
  ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
