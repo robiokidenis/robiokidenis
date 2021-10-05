@@ -7,7 +7,7 @@ I am a:
 - DevOps Engineer
 
 I am currently a Backend Engineer working  at [Wingsgroup](https://wingscorp.com/) also remotly at [WeFarm](https://remote.works-hub.com/companies/wefarm) in US, USA.\
-I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. The best time to think is right before sleeping, you can actually adventure the mind with A LOT of questions, to find the best answer from our own thoughts. 
+I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. I learned coding since I was 10 years old, The best time to think is right before sleeping, you can actually adventure the mind with A LOT of questions, to find the best answer from our own thoughts. 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight)
@@ -112,9 +112,7 @@ Experience Language and framework:
 - 📫 How to reach me: 
  [Curious Luminosity (Programming Community)](https://discord.gg/BjeQGq8)
 
-[My Medium](https://medium.com/@robiokidenis)\
-[My Linkedin](https://www.linkedin.com/in/robiokidenis/)\
-[My Leetcode](https://leetcode.com/robiokidenis/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robiokidenis&label=Profile%20views&color=0e75b6&style=flat" alt="robiokidenis" /> </p>
 <!--
