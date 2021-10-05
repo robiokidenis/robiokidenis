@@ -37,7 +37,7 @@ I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. I 
  ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
 - [Laravel Eloquent Tips and Tricks make you more productivity #2](https://robiokidenis.medium.com/laravel-eloquent-tips-and-tricks-make-you-more-productivity-2-636dc708e10f?source=rss-8e57b7bc9ef4------2)
-- [Docker Compose for Development needs](https://robiokidenis.medium.com/docker-compose-for-development-needs-f7dccbf96e44?source=rss-8e57b7bc9ef4------2)
+- [Docker Compose for Development](https://robiokidenis.medium.com/docker-compose-for-development-needs-f7dccbf96e44?source=rss-8e57b7bc9ef4------2)
 - [Laravel Eloquent Tips and Tricks make you more productivity #1](https://robiokidenis.medium.com/laravel-eloquent-tips-and-tricks-make-you-more-productivity-part-1-22c503cd6153?source=rss-8e57b7bc9ef4------2)
 - [Create replicate the Windows 11 desktop experience on web](https://robiokidenis.medium.com/create-replicate-the-windows-11-desktop-experience-on-web-4c79a6b61984?source=rss-8e57b7bc9ef4------2)
 - [Dockerize MySql and Mariadb using docker compose](https://robiokidenis.medium.com/dockerize-mysql-or-mariadb-using-docker-compose-895f976a57ae?source=rss-8e57b7bc9ef4------2)
