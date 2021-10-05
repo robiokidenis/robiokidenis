@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Robioki Denis</h1>
 <h3 align="center">git commit -m "Hello, I'm a Software Engineering"</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robiokidenis&label=Profile%20views&color=0e75b6&style=flat" alt="robiokidenis" /> </p>
+
 I am a:
 - Software Enginer
 - Fullstack Developer
@@ -116,7 +116,7 @@ Experience Language and framework:
 [My Linkedin](https://www.linkedin.com/in/robiokidenis/)\
 [My Leetcode](https://leetcode.com/robiokidenis/)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robiokidenis&label=Profile%20views&color=0e75b6&style=flat" alt="robiokidenis" /> </p>
 <!--
 **robiokidenis/robiokidenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
