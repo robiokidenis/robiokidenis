@@ -6,7 +6,7 @@ I am a:
 - Fullstack Developer
 - DevOps Engineer
 
-I am a Backend Engineer currently working remotly at [Wingsgroup](https://wingscorp.com/) also at [WeFarm](https://remote.works-hub.com/companies/wefarm) in US, USA.\
+I am currently a Backend Engineer working  at [Wingsgroup](https://wingscorp.com/) also remotly at [WeFarm](https://remote.works-hub.com/companies/wefarm) in US, USA.\
 I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. The best time to think is right before sleeping, you can actually adventure the mind with A LOT of questions, to find the best answer from our own thoughts. 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight)
