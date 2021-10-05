@@ -6,8 +6,8 @@ I am a:
 - Fullstack Developer
 - DevOps Engineer
 
-I am currently a Software Engineer working  at [Wingsgroup](https://wingscorp.com/) also remotly at [WeFarm](https://remote.works-hub.com/companies/wefarm) in US, USA.\
-I love Science :nerd_face: , space 🌌, Sci-Fi 🛸, and Technology :robot:. I learned coding since I was 10 years old, The best time to think is right before sleeping, you can actually adventure the mind with A LOT of questions, to find the best answer from our own thoughts. 
+I am currently a Software Engineer working at Wingsgroup also remotely at WeFarm in US, USA.
+I love Science 🤓 , Space 🌌, Sci-Fi 🛸, and Technology 🤖. I have been learning coding since I was 10 years old. The best time to think is right before sleeping, you can actually adventure the mind with a LOT of questions, to find the best answer from our own thoughts.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight)
