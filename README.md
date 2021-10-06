@@ -36,7 +36,7 @@ I love Science 🤓 , Space 🌌, Sci-Fi 🛸, and Technology 🤖. I have been 
 
  ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
-- [Golang Frameworks and External Libraries Performace](https://robiokidenis.medium.com/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a?source=rss-8e57b7bc9ef4------2)
+- [Golang Frameworks and External Libraries Performace](https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a?source=rss-8e57b7bc9ef4------2)
 - [Laravel Eloquent Tips and Tricks make you more productivity #2](https://robiokidenis.medium.com/laravel-eloquent-tips-and-tricks-make-you-more-productivity-2-636dc708e10f?source=rss-8e57b7bc9ef4------2)
 - [Docker Compose for Development](https://robiokidenis.medium.com/docker-compose-for-development-needs-f7dccbf96e44?source=rss-8e57b7bc9ef4------2)
 - [Laravel Eloquent Tips and Tricks make you more productivity #1](https://robiokidenis.medium.com/laravel-eloquent-tips-and-tricks-make-you-more-productivity-part-1-22c503cd6153?source=rss-8e57b7bc9ef4------2)
