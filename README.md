@@ -107,6 +107,8 @@ I love Science 🤓 , Space 🌌, Sci-Fi 🛸, and Technology 🤖. I have been 
     * Vuejs
     * Nodejs
     * expressjs
+  * Others
+    * Graphql
   * Etc.  
 </details>
 
