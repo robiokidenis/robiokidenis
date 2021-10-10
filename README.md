@@ -9,8 +9,14 @@ I am a:
 I am currently a Software Engineer working at Wingsgroup also remotely at WeFarm in UK.\
 I love Science 🤓 , Space 🌌, Sci-Fi 🛸, and Technology 🤖. I have been learn coding since I was 10 years old. The best time to think is right before sleeping, you can actually adventure the mind with a LOT of questions, to find the best answer from our own thoughts.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight)
-![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight) -->
+<!-- ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight) -->
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true)](https://github.com/robiokidenis)
+
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=robiokidenis)](https://github.com/robiokidenis)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Linkedin: robiokidenis](https://img.shields.io/badge/-robiokidenis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robiokidenis/)](https://www.linkedin.com/in/robiokidenis/)
 ![youtube : robiokidenis](https://img.shields.io/youtube/channel/views/UCcKwmyI7YvLEUVVJCWX6drw?label=robioki%20Denis&style=social)
