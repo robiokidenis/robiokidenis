@@ -15,7 +15,7 @@ I love Science 🤓 , Space 🌌, Sci-Fi 🛸, and Technology 🤖. I have been 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true)](https://github.com/robiokidenis)
 
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=robiokidenis)](https://github.com/robiokidenis)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [![Linkedin: robiokidenis](https://img.shields.io/badge/-robiokidenis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robiokidenis/)](https://www.linkedin.com/in/robiokidenis/)
