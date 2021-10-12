@@ -2,7 +2,7 @@
 <h3 align="center">git commit -m "Hello, I'm a Software Engineering"</h3>
 
 I am a:
-- Software Enginer
+- Software Engineer
 - Fullstack Developer
 - DevOps Engineer
 
