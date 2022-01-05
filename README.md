@@ -4,7 +4,7 @@
 I am a:
 - Software Engineer
 - Fullstack Developer
-- DevOps Engineer
+<!-- - DevOps Engineer -->
 
 I love Science 🤓 , Space 🌌, Sci-Fi 🛸, and Technology 🤖. I have been learn coding since I was 10 years old. The best time to think is right before sleeping, you can actually adventure the mind with a LOT of questions, to find the best answer from our own thoughts.
 
