@@ -5,7 +5,7 @@ I am a:
 - Fullstack Developer
 <!-- - DevOps Engineer -->
 
-I love Learning and Sharing Knowledge Everyday, I have been learn coding since I was 10 years old. The greatest treasure that we should not waste today is our youth and our free time, Take advantage of both to develop and become extraordinary. 
+I love Learning and Sharing Knowledge, The greatest treasure that we should not waste today is our youth and our free time, Take advantage of both to develop and become extraordinary. 
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight) -->
 <!-- ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight) -->
