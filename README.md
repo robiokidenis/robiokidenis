@@ -7,10 +7,8 @@ I am a:
 
 I love Learning and Sharing Knowledge, The greatest treasure that we should not waste today is our youth and our free time, Take advantage of both to develop and become extraordinary. 
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true&theme=tokyonight) -->
+![github stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true&include_all_commits=true)
 <!-- ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact&theme=tokyonight) -->
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robiokidenis&show_icons=true)](https://github.com/robiokidenis)
 
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=robiokidenis)](https://github.com/robiokidenis)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robiokidenis&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
