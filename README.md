@@ -34,11 +34,11 @@ I love Learning and Sharing Knowledge, The greatest treasure that we should not 
 
  ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Zsh Keyboard Shortcuts for Efficient Shell Navigation and Editing](https://robiokidenis.medium.com/mastering-zsh-keyboard-shortcuts-for-efficient-shell-navigation-and-editing-5946b5afa698?source=rss-8e57b7bc9ef4------2)
 - [How to install multiple Python on your Mac](https://robiokidenis.medium.com/how-to-install-multiple-python-on-your-mac-d20713740a2d?source=rss-8e57b7bc9ef4------2)
 - [How to use CKeditor on your Nextjs or React app](https://robiokidenis.medium.com/how-to-use-ckeditor-on-your-nextjs-or-react-app-525664cdb1d7?source=rss-8e57b7bc9ef4------2)
 - [Clear Redis cache from your docker container](https://robiokidenis.medium.com/clear-redis-cache-from-you-docker-container-7d164d973320?source=rss-8e57b7bc9ef4------2)
 - [Laravel Eloquent Tips and Tricks Speedup your code #3](https://robiokidenis.medium.com/laravel-eloquent-tips-and-tricks-speedup-your-code-3-3c1ee800f89f?source=rss-8e57b7bc9ef4------2)
-- [Golang Frameworks and External Libraries Performace](https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a?source=rss-8e57b7bc9ef4------2)
 <!-- BLOG-POST-LIST:END -->
 
 
