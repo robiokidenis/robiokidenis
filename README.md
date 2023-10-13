@@ -102,6 +102,7 @@ I love Learning and Sharing Knowledge, The greatest treasure that we should not 
     * Vanilla js
     * jquery
     * Reactjs
+    * Nextjs
     * Vuejs
     * Nodejs
     * expressjs
@@ -111,8 +112,8 @@ I love Learning and Sharing Knowledge, The greatest treasure that we should not 
 </details>
 
 
-<!-- - 🔭 I’m currently working to rebuild my undergraduate-thesis about hoax verification for bahasa indonesia, it was named besut (benang kusut). -->
-- 🌱 I’m currently learning kubernetes and Nextjs
+
+- 🌱 I’m currently learning kubernetes and Aws Amplify
 - 👯 I’m looking to collaborate on open source projects<!-- - 🤔 I’m looking for help with how to get a Software Engineering job in Japan (my dream). -->
 - 📫 How to reach me: 
  [Curious Luminosity (Programming Community)](https://discord.gg/BjeQGq8)
